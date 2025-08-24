@@ -7,62 +7,58 @@ This project focuses on analyzing Amazon sales data to uncover key trends, custo
 
 🔍 Objectives:
 
-Identify best-selling products and categories
+-Identify best-selling products and categories
 
-Analyze revenue trends over time
+-Analyze revenue trends over time
 
-Understand customer purchasing behavior
+-Understand customer purchasing behavior
 
-Track regional sales performance (if location data is available)
+-Track regional sales performance (if location data is available)
 
-Discover seasonal trends and sales spikes
+-Discover seasonal trends and sales spikes
 
-Evaluate return rates and product ratings
+-Evaluate return rates and product ratings
 
 📁 Dataset:
 
-Source: Amazon Sales Dataset
+-Source: Amazon Sales Dataset
 
-Format: CSV / Excel
+-Format: CSV / Excel
 
 Fields Include:
 
-Order ID
+-Order ID
 
-Product Title
+-Product Title
 
-Category
+-Category
 
-Sales Amount
+-Sales Amount
 
-Quantity Sold
+-Quantity Sold
 
-Order Date
+-Order Date
 
-Customer Rating
+-Customer Rating
 
-Return Status
+-Return Status
 
-Region/Country (if available)
+-Region/Country.
 
 🛠️ Tools & Technologies:
 
-Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+-Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 
-Jupyter Notebook
-
-Power BI / Tableau (Optional for dashboard visualization)
-
-Excel (for light data cleaning or pivot analysis)
+-Jupyter Notebook
 
 📈 Key Insights:
 
-Top 10 best-selling products by revenue
+-Top 10 best-selling products by revenue
 
-Monthly and yearly revenue trends
+-Monthly and yearly revenue trends
 
-Correlation between product rating and return rate
+-Correlation between product rating and return rate
 
-Category-wise performance and profitability
+-Category-wise performance and profitability
 
-High-performing sales channels or regions.
+-High-performing sales channels or regions.
